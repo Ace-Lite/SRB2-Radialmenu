@@ -1,2 +1,3 @@
 # SRB2-Radialmenu
-Radial Menu for SRB2
+
+Will always use same license as Sonic Robo Blast 2, due to binds to it.
